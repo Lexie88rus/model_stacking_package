@@ -21,7 +21,7 @@ pip install .
 
 ## Package Usage Example
 Example of usage of package *SklearnHelper* class and *get_oof* function 
-```
+```python
 #import package
 import stacking
 
